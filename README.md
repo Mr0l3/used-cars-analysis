@@ -23,4 +23,4 @@
 ![Vehicles average price by vehicle type and transmission bar plot](img/5.svg)
 
 ## License
-This repository lies under the MIT License. See <a href="https://github.com/Mr0l3/used-card-analysis/blob/main/LICENSE">LICENSE</a> for more information.
+This repository lies under the MIT License. See <a href="https://github.com/Mr0l3/used-cars-analysis/blob/master/LICENSE">LICENSE</a> for more information.
