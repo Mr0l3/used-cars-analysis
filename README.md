@@ -18,3 +18,6 @@ ___
 
 ### 4. Number of vehicles by manufacturer
 ![Number of vehicles by manufacturer bar plot](img/4.svg)
+
+### 5. Vehicles average price by vehicle type and transmission
+![Vehicles average price by vehicle type and transmission bar plot](img/5.svg)
