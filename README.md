@@ -1,10 +1,7 @@
 <h1 align="center">Used Cars For Sale In The US Analysis</h1>
 <p align="center"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" /></p>
 <p align="center">Basic analysis regarding cars available for sale in the US at Craiglist</p>
-
-
-
-The DataSet is available at: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+<p align="center">The DataSet is available at: https://www.kaggle.com/austinreese/craigslist-carstrucks-data</p>
 
 
 
