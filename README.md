@@ -22,5 +22,8 @@
 ### 5. Vehicles average price by vehicle type and transmission
 ![Vehicles average price by vehicle type and transmission bar plot](img/5.svg)
 
+### 6. Vehicles average price by manufacturer and vehicle type
+![Vehicles average price by manufacturer and vehicle type heatmap](img/6.svg)
+
 ## License
 This repository lies under the MIT License. See <a href="https://github.com/Mr0l3/used-cars-analysis/blob/master/LICENSE">LICENSE</a> for more information.
